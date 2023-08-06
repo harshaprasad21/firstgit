@@ -1,3 +1,2 @@
-print ("this is te new commit")
-print ("this is just for fun")
-
+print ("this is the second change")
+print ("this is for branching")
