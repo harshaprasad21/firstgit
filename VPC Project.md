@@ -1,4 +1,4 @@
-"Secure Network Architecture in AWS: VPC with Bastion Server, Internet Gateway, and NAT Gateway"
+ "Secure Network Architecture in AWS: VPC with Bastion Server, Internet Gateway, and NAT Gateway"
 ----------------------------------------------------------------------------------------------
 
 
